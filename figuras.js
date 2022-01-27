@@ -53,8 +53,8 @@ console.group("Triángulo");
     //Área
     const areaCirculo=PI*(radioCirculo*radioCirculo);
     console.log("el área del círculo es: " + areaCirculo + "cm^2");
-
-
     console.groupEnd();
+
+    
 
 
